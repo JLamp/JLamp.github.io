@@ -72,7 +72,7 @@ hr {
 .quitnet {
 	background: 
 		linear-gradient(rgba(0, 202, 202, 0.8), rgba(0, 202, 202, 0.8)),
-    	url(../_assets/quitnet_bg.jpg);
+    	url(../assets/quitnet_bg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -81,7 +81,7 @@ hr {
 .foodprint {
 	background: 
 		linear-gradient(rgba(154, 199, 47, 0.7), rgba(154, 199, 47, 0.7)),
-    	url(../_assets/foodprint_bg.jpg);
+    	url(../assets/foodprint_bg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -90,7 +90,7 @@ hr {
 .kleverbeast {
 	background: 
 		linear-gradient(rgba(80, 81, 79, 0.7), rgba(80, 81, 79, 0.7)),
-    	url(../_assets/kleverbeast_bg.jpg);
+    	url(../assets/kleverbeast_bg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -99,7 +99,7 @@ hr {
 .local-social {
 	background: 
 		linear-gradient(rgba(232, 35, 27, 0.7), rgba(232, 35, 27, 0.7)),
-    	url(../_assets/localsocial_bg.jpg);
+    	url(../assets/localsocial_bg.jpg);
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
