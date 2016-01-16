@@ -118,6 +118,14 @@ hr {
 	color: #FFFFFF;
 }
 
+.footer .fa{
+	opacity: .5;
+}
+
+.footer .fa:hover{
+	opacity: 1;
+}
+
 
 .container-inner{
 	padding: 96px 0px 96px 0px;
