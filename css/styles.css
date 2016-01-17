@@ -107,6 +107,8 @@ hr {
 
 .footer {
 	background: #373F54;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .footer h2{
@@ -116,16 +118,13 @@ hr {
 
 .footer a{
 	color: #FFFFFF;
-}
-
-.footer .fa{
 	opacity: .5;
+	margin: 4px 4px 4px 4px;
 }
 
-.footer .fa:hover{
+.footer a:hover{
 	opacity: 1;
 }
-
 
 .container-inner{
 	padding: 96px 0px 96px 0px;
@@ -187,4 +186,10 @@ hr {
 	-o-animation: btnfill  3s infinite;
 	animation: btnfill  3s infinite;*/
 
+}
+
+.footer p{
+	text-align: center;
+	margin: 16px 0px 16px 0px;
+	font-weight: 300	
 }
